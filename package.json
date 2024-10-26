@@ -1,0 +1,41 @@
+{
+  "name": "@6thpath/eslint-config",
+  "description": "A collection of ESLint config presets.",
+  "version": "0.0.0",
+  "author": {
+    "email": "tienphat1501@gmail.com",
+    "name": "Phát"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "pnpm@9.12.2",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "standard.js",
+  "files": [
+    "base.js",
+    "browser.js",
+    "common.js",
+    "node.js",
+    "standard.js"
+  ],
+  "dependencies": {
+    "@eslint/js": "9.13.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-import-resolver-typescript": "3.6.3",
+    "eslint-plugin-import-x": "4.3.1",
+    "eslint-plugin-prettier": "5.2.1",
+    "eslint-plugin-simple-import-sort": "12.1.1",
+    "globals": "15.11.0",
+    "prettier": "3.3.3",
+    "typescript-eslint": "8.11.0"
+  },
+  "devDependencies": {
+    "eslint": "9.13.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=9"
+  }
+}
