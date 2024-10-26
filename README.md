@@ -1,3 +1,3 @@
 # `@6thpath/eslint-config`
 
-Collection of personal eslint configurations.
+A collection of opinionated ESLint configuration presets.

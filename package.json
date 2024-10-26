@@ -1,6 +1,6 @@
 {
   "name": "@6thpath/eslint-config",
-  "description": "A collection of ESLint config presets.",
+  "description": "A collection of opinionated ESLint configuration presets.",
   "version": "0.0.0",
   "author": {
     "email": "tienphat1501@gmail.com",
