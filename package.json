@@ -1,7 +1,11 @@
 {
   "name": "@6thpath/eslint-config",
   "description": "A collection of opinionated ESLint configuration presets.",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6thpath/eslint-config.git"
+  },
   "author": {
     "email": "tienphat1501@gmail.com",
     "name": "Phát"
