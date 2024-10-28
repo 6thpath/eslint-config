@@ -25,6 +25,12 @@
     "node.js",
     "standard.js"
   ],
+  "exports": {
+    ".": "./standard.js",
+    "./browser": "./browser.js",
+    "./common": "./common.js",
+    "./node": "./node.js"
+  },
   "dependencies": {
     "@eslint/js": "9.13.0",
     "eslint-config-prettier": "9.1.0",
